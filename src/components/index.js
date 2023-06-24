@@ -1,0 +1,8 @@
+export * from './table'
+export * from './loading'
+export * from './modal'
+export * from './coba'
+export * from './data_table'
+// export * from './crudLvl_1'
+// export * from './crudApi'
+export * from './crudLocalStorage'
